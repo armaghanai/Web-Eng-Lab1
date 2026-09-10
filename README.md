@@ -1,4 +1,4 @@
-# Web Engineering (CS-344) — Lab 01
+# Web Engineering Lab 01
 
 ## Overview
 This repository contains the practical work completed during **Lab 01** of the CS-344 Web Engineering course. The lab focused on the foundational structure of the web by introducing fundamental HTML element tags, semantic text formatting, heading hierarchies, line breaks, horizontal rules, and embedding external visual assets.
